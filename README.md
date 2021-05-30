@@ -10,6 +10,6 @@ This paper leverages ```pandas```, ```geopandas```, ```numpy```, and ```matplotl
 
 
 ![](https://github.com/tanhata/HarlemAirRights/blob/main/buildinggh1.gif) ![](https://github.com/tanhata/HarlemAirRights/blob/main/buildinggh2.gif)
-![](https://github.com/tanhata/HarlemAirRights/blob/main/Slider_window%202.gif)
 ![](https://github.com/tanhata/HarlemAirRights/blob/main/Zoning%20Final%20Presentation_Page_19.jpg)
 ![](https://github.com/tanhata/HarlemAirRights/blob/main/Zoning%20Final%20Presentation_Page_20.jpg)
+![](https://github.com/tanhata/HarlemAirRights/blob/main/Slider_window%202.gif)
