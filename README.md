@@ -1,5 +1,4 @@
 # Leveraging Air Rights for Reparative Development in Harlem  
-**The Bernard & Anne Spitzer School of Architecture**  
 
 **Authors:**  
 Tanha Alsheikhdallah, Alden Copley, John Hartmann, Alyssa Lewis, Matthew Morgan, Nusrat Sharmin  
