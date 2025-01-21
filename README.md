@@ -73,13 +73,12 @@ Key outputs include dynamic and static visualizations highlighting zoning opport
 - **Dynamic Simulations:**  
   ![](https://github.com/tanhata/HarlemAirRights/blob/main/buildinggh1.gif)  
   ![](https://github.com/tanhata/HarlemAirRights/blob/main/buildinggh2.gif)  
-
+- **Algorithmic Design Demonstrations:**  
+  ![](https://github.com/tanhata/HarlemAirRights/blob/main/Slider_window%202.gif)  
 - **Presentation Graphics:**  
   ![](https://github.com/tanhata/HarlemAirRights/blob/main/Zoning%20Final%20Presentation_Page_19.jpg)  
   ![](https://github.com/tanhata/HarlemAirRights/blob/main/Zoning%20Final%20Presentation_Page_20.jpg)  
 
-- **Algorithmic Design Demonstrations:**  
-  ![](https://github.com/tanhata/HarlemAirRights/blob/main/Slider_window%202.gif)  
 
 ---
 
